@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Practical2</string>
+    <string name="nickNameHint">Type your nick name here\n</string>
+    <string name="confirmBtn">Confirm</string>
+    <string name="nameTextView">Guan Hong</string>
+</resources>
